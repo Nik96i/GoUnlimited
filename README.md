@@ -8,3 +8,9 @@ Features:
  - No Restrictions
  - 100% Free
  - Powerful Panel
+
+Usage:
+
+```python
+
+```
