@@ -1,5 +1,5 @@
 # GoUnlimited
-Unofficial Python API form GoUnlimited.to
+Unofficial Python API for GoUnlimited.to
 
 Features:
  - Truly Unlimited
@@ -65,3 +65,6 @@ gu.files_deleted(limit=10)
 gu.files_dmca(limit=10)
 
 ```
+You can send multiple files code in file_code parameter in a string format separated by comma.
+
+Reference: https://xvs.docs.apiary.io/
